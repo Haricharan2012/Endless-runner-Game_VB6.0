@@ -1,0 +1,29 @@
+Line 53: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 166: Class WMPLibCtl.WindowsMediaPlayer of control WindowsMediaPlayer1 was not a loaded control class.
+Line 56: The property name _ExtentX in CommonDialog1 is invalid.
+Line 57: The property name _ExtentY in CommonDialog1 is invalid.
+Line 58: The property name _Version in CommonDialog1 is invalid.
+Line 172: The property name URL in WindowsMediaPlayer1 is invalid.
+Line 173: The property name rate in WindowsMediaPlayer1 is invalid.
+Line 174: The property name balance in WindowsMediaPlayer1 is invalid.
+Line 175: The property name currentPosition in WindowsMediaPlayer1 is invalid.
+Line 176: The property name defaultFrame in WindowsMediaPlayer1 is invalid.
+Line 177: The property name playCount in WindowsMediaPlayer1 is invalid.
+Line 178: The property name autoStart in WindowsMediaPlayer1 is invalid.
+Line 179: The property name currentMarker in WindowsMediaPlayer1 is invalid.
+Line 180: The property name invokeURLs in WindowsMediaPlayer1 is invalid.
+Line 181: The property name baseURL in WindowsMediaPlayer1 is invalid.
+Line 182: The property name volume in WindowsMediaPlayer1 is invalid.
+Line 183: The property name mute in WindowsMediaPlayer1 is invalid.
+Line 184: The property name uiMode in WindowsMediaPlayer1 is invalid.
+Line 185: The property name stretchToFit in WindowsMediaPlayer1 is invalid.
+Line 186: The property name windowlessVideo in WindowsMediaPlayer1 is invalid.
+Line 188: The property name enableContextMenu in WindowsMediaPlayer1 is invalid.
+Line 189: The property name fullScreen in WindowsMediaPlayer1 is invalid.
+Line 190: The property name SAMIStyle in WindowsMediaPlayer1 is invalid.
+Line 191: The property name SAMILang in WindowsMediaPlayer1 is invalid.
+Line 192: The property name SAMIFilename in WindowsMediaPlayer1 is invalid.
+Line 193: The property name captioningID in WindowsMediaPlayer1 is invalid.
+Line 194: The property name enableErrorDialogs in WindowsMediaPlayer1 is invalid.
+Line 195: The property name _cx in WindowsMediaPlayer1 is invalid.
+Line 196: The property name _cy in WindowsMediaPlayer1 is invalid.
